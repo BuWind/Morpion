@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    text-align: center;
+  }
+  #Jeu {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 10px;
+  }
+
+p {
+    background-color: black;
+    border-radius: 2.5em;
+    border: 3px solid black;
+    color: white;
+    font-family: Cursive;
+}
+  
+  #Jeu div {
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  #Jeu button {
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 5px;
+    float:left;
+    border-radius: 1rem;
+  }
+  
+button:hover {
+    cursor:pointer;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Cursive;
+}
+  
+
+  h1 {
+    text-align: center;
+    font-family: Cursive;
+    color: white;
+    font-size: 100px;
+  }
